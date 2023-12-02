@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Card Game Solver
+
+Github page: https://meepeng.github.io/card-game-solver
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
